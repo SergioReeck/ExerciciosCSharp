@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form100Posicoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5Vetores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAlturaPessoas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAutonomiaVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBancoDeDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCadastroAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormComissao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormComparacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormComparacaoQtdeePreco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCompraComDesconto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormConsumoCigarros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDezNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDezNumeros1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDezNumeros1cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDiaMesAno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDoisVetoresNumericos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFolhaDePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHotel%28Metodo%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormListaMaiorMenorPares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMaiorOuMenor10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMetodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMulherHomemInderteminado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNomeExiste%28Metodo%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumeroMaiorLista%28Metodo%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumerosMaioresMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumerosMediaMediaDeNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumerosMultiplos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumerosPares%28Metodo%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumerosPares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNumeroSucessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOrdemCrescenteProfessor%28Discord%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPlacar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPodeOuNaoPodeVotar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrimeiroMetodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormQuestao1Prova%28190521%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormQuestao2Prova%28190521%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormQuestao5Prova%28190521%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRadar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRaizQuadrada%28Discord%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRaizQuadrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSalario%28Discord%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSalario%28Metodo%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSalario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSomarValoresMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSorteioProWay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTemperatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTesteTSystems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTicketCinema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTriangulo%28Funcao%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormValoresImpressos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
